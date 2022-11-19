@@ -5,3 +5,5 @@ Hi, I am studying chemical engineering but am also interested in computer scienc
 I want to explore ways that chemical engineers and use computer technology to make processes even better!
 
 I am making a change to learn about git from VSCode
+
+making changes to master branch
